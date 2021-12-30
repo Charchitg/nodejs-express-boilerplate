@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-express-boilerplate",
+  "version": "1.0.0",
+  "description": "Bolierplate code for node express app",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Charchitg/nodejs-express-boilerplate.git"
+  },
+  "author": "Charchit Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Charchitg/nodejs-express-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Charchitg/nodejs-express-boilerplate#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.4"
+  }
+}
